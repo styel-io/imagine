@@ -8,6 +8,14 @@
 <br />
 <img src="https://user-images.githubusercontent.com/14961047/62177533-35203600-b380-11e9-8e7a-4f94dcd95dd1.png" alt="styel_bgwhite" width="300px" heigth="300px" />
 
+## Styel Round
+
+<img src="https://user-images.githubusercontent.com/14961047/62179903-11adb900-b389-11e9-9e37-e80d11c48bd3.png" alt="styel_round" width="300px" heigth="300px" />
+<br />
+<br />
+<br />
+<img src="https://user-images.githubusercontent.com/14961047/62179902-11152280-b389-11e9-84f1-2370a17152a9.png" alt="styel_round_bgwhite" width="300px" heigth="300px" />
+
 ## Styel CI Horizontal
 
 <img src="https://user-images.githubusercontent.com/14961047/62177561-4c5f2380-b380-11e9-9232-adbbb4acc48b.png" alt="styel_horizontal" width="300px" heigth="300px" />
